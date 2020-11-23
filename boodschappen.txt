@@ -1,5 +1,6 @@
 Pizza: 
 - pizzadeeg
 - mozarella
+- parmaham
 - tomatensaus
 - rucola
