@@ -9,3 +9,4 @@ Ontbijt:
 - eieren
 - brood
 - sinaasappelsap
+- boter
