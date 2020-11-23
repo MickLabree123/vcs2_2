@@ -2,5 +2,6 @@ Pizza:
 - pizzadeeg
 - mozarella
 - parmaham
+- blauwe kaas
 - tomatensaus
 - rucola
